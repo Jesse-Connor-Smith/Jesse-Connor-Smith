@@ -18,6 +18,11 @@ Past Projects:
 [Prg2782.zip](https://github.com/user-attachments/files/26602747/Prg2782.zip)
 [Fitness tracker project.zip](https://github.com/user-attachments/files/26602790/Fitness.tracker.project.zip)
 
+Project repositories:
+https://github.com/Jesse-Connor-Smith/Prg2782
+https://github.com/Jesse-Connor-Smith/site (this is my main proejct)
+https://github.com/Koewkie/WPR181
+
 Download my CV:
 https://github.com/Jesse-Connor-Smith/cv
 

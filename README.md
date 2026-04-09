@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I’m Jesse Connor Smith
 
-<!--
-**Jesse-Connor-Smith/Jesse-Connor-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd year Software Engineering Student at Belgium Campus iTversity 
 
-Here are some ideas to get you started:
+I am Passionate about AI, Web development, Project management, Software development and Cloud computing. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am seeking an internship/graduate opportunities in software development 
+
+My skills include:
+
+o        Programming: Java, C#, CSS, HTML, JavaScript, SQL, Arduino
+
+o        Tools: GitHub, Excel, Power BI, Arduino, RaspberryPi
+
+Past Projects:
+[PAT FINAL 2023.zip](https://github.com/user-attachments/files/26602672/PAT.FINAL.2023.zip)
+[DoItBPO.zip](https://github.com/user-attachments/files/26602690/DoItBPO.zip)
+[Prg2782.zip](https://github.com/user-attachments/files/26602747/Prg2782.zip)
+[Fitness tracker project.zip](https://github.com/user-attachments/files/26602790/Fitness.tracker.project.zip)
+
+Download my CV:
+https://github.com/Jesse-Connor-Smith/cv
+
+

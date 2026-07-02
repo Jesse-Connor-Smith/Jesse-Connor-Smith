@@ -27,12 +27,16 @@ Belgium campus tutoring platform: https://github.com/shimza23/INL_Project
 Project repositories:
 https://github.com/Jesse-Connor-Smith/Prg2782
 
+call centre information page 
 https://github.com/Jesse-Connor-Smith/site (this is my main proejct)
 
 https://github.com/Koewkie/WPR181
 
+belgium campus tutor website 
 https://github.com/shimza23/INL_Project
 
+event management and ticket sale website 
+https://github.com/almasi06/Smart-Event-Management-and-Ticket-Platform 
 
 Download my CV:
 https://github.com/Jesse-Connor-Smith/cv

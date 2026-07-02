@@ -38,6 +38,9 @@ https://github.com/shimza23/INL_Project
 event management and ticket sale website 
 https://github.com/almasi06/Smart-Event-Management-and-Ticket-Platform 
 
+fitness tracker platform 
+https://github.com/Jesse-Connor-Smith/fitness-tracker-programn
+
 Download my CV:
 https://github.com/Jesse-Connor-Smith/cv
 

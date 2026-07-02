@@ -41,6 +41,9 @@ https://github.com/almasi06/Smart-Event-Management-and-Ticket-Platform
 fitness tracker platform 
 https://github.com/Jesse-Connor-Smith/fitness-tracker-programn
 
+machine learning model to predict likelihood and catagorise type of diabetes 
+https://github.com/JCNEE/MLG382-Diabetes-DSS
+
 Download my CV:
 https://github.com/Jesse-Connor-Smith/cv
 

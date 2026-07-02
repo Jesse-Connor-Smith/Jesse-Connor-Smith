@@ -44,6 +44,9 @@ https://github.com/Jesse-Connor-Smith/fitness-tracker-programn
 machine learning model to predict likelihood and catagorise type of diabetes 
 https://github.com/JCNEE/MLG382-Diabetes-DSS
 
+machine learning model for image recognition for farm animal viewing and hunting in south africa 
+https://github.com/JCNEE/E-Commerce-Image-Classification
+
 Download my CV:
 https://github.com/Jesse-Connor-Smith/cv
 

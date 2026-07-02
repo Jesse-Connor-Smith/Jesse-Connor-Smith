@@ -28,7 +28,7 @@ Project repositories:
 https://github.com/Jesse-Connor-Smith/Prg2782
 
 call centre information page 
-https://github.com/Jesse-Connor-Smith/site (this is my main proejct)
+https://github.com/Jesse-Connor-Smith/site 
 
 https://github.com/Koewkie/WPR181
 
@@ -45,7 +45,7 @@ machine learning model to predict likelihood and catagorise type of diabetes
 https://github.com/JCNEE/MLG382-Diabetes-DSS
 
 machine learning model for image recognition for farm animal viewing and hunting in south africa 
-https://github.com/JCNEE/E-Commerce-Image-Classification
+https://github.com/JCNEE/E-Commerce-Image-Classification (this is my main project)
 
 Download my CV:
 https://github.com/Jesse-Connor-Smith/cv
